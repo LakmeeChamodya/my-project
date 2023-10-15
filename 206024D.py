@@ -2,7 +2,7 @@
 num1 = float(input("Enter the first number: "))
 num2 = float(input("Enter the second number: "))
 
-# Perform a basic calculation
+# Perform the calculation
 result = num1 + num2
 
 # Display the result
