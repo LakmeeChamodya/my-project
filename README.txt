@@ -1,16 +1,1 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <title>Lakmee_206024D</title>
-</head>
-<body>
-    <h1>Welcome to My Web Page</h1>
-    <p>This is my first web page created by using HTML.</p>
-    <ul>
-        <li>Item 1</li>
-        <li>Item 2</li>
-        <li>Item 3</li>
-    </ul>
-    <p>Thank you for visiting!</p>
-</body>
-</html>
+Hello World...!
